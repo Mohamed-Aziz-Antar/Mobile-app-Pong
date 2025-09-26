@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "971121435518",
+    "project_id": "pong-bc360",
+    "storage_bucket": "pong-bc360.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:971121435518:android:4df47ae9571d404a79492f",
+        "android_client_info": {
+          "package_name": "com.AhmedAziz.pong"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBl_XjrV1UR9-hpKp8zmFazLX1VN_gG6OA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:971121435518:android:dc101cb3be83b39579492f",
+        "android_client_info": {
+          "package_name": "com.example.pong"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBl_XjrV1UR9-hpKp8zmFazLX1VN_gG6OA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
